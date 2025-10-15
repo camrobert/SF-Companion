@@ -1,0 +1,17 @@
+[
+  {
+    id react-framework,
+    regex b(React)b,
+    infoUrl httpsraw.githubusercontent.comYOUR_USERNAMEYOUR_REPOmaininforeact.md
+  },
+  {
+    id api-concept,
+    regex b(API)b,
+    infoUrl httpsraw.githubusercontent.comYOUR_USERNAMEYOUR_REPOmaininfoapi.md
+  },
+  {
+    id html-language,
+    regex b(HTML)b,
+    infoUrl httpsraw.githubusercontent.comYOUR_USERNAMEYOUR_REPOmaininfohtml.md
+  }
+]
