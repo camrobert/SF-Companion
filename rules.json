@@ -8,11 +8,11 @@
     ]
   },
   {
-    "id": "react-docs-main-header",
-    "selector": "h1#main-content",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/react-main-concept.md",
+    "id": "test-SF-item",
+    "selector": "article.card.card__1.card__wrapper > div > div > div.card__text__wrapper > div > div > div.card__headline__wrapper > h3",
+    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/info.md",
     "allowedUrls": [
-      "https://react.dev/learn/*"
+      "https://www.salesforce.com/*"
     ]
   },
   {
@@ -24,3 +24,4 @@
     ]
   }
 ]
+
