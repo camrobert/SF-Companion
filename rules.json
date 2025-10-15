@@ -1,17 +1,26 @@
 [
   {
-    "id": "react-framework",
-    "regex": "\\b(React)\\b",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/react.md"
+    "id": "github-pr-title",
+    "selector": ".gh-header-title .js-issue-title",
+    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/pull-request-title.md",
+    "allowedUrls": [
+      "https://github.com/*/*/pull/*"
+    ]
   },
   {
-    "id": "api-concept",
-    "regex": "\\b(API)\\b",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/api.md"
+    "id": "react-docs-main-header",
+    "selector": "h1#main-content",
+    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/react-main-concept.md",
+    "allowedUrls": [
+      "https://react.dev/learn/*"
+    ]
   },
   {
-    "id": "html-language",
-    "regex": "\\b(HTML)\\b",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/html.md"
+    "id": "global-help-buttons",
+    "selector": ".show-global-help",
+    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/global-help.md",
+    "allowedUrls": [
+      "*"
+    ]
   }
 ]
