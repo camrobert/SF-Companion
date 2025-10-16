@@ -1,5 +1,13 @@
 [
   {
+    "id": "d360-datastream-title",
+    "selector": "lst-breadcrumbs",
+    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/datastream-title.md",
+    "allowedUrls": [
+      "*lightning/o/DataStream/list*"
+    ]
+  },
+  {
     "id": "github-pr-title",
     "selector": ".gh-header-title .js-issue-title",
     "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/pull-request-title.md",
@@ -24,4 +32,5 @@
     ]
   }
 ]
+
 
