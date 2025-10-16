@@ -1,7 +1,7 @@
 [
   {
     "id": "d360-datastream-title",
-    "selector": "lst-breadcrumbs",
+    "selector": "div.slds-grid.resize-reflow_flex-wrap > div.slds-col.slds-has-flexi-truncate.firstHeaderRow > div > records-highlights-icon",
     "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/datastream-title.md",
     "allowedUrls": [
       "*lightning/o/DataStream/list*"
@@ -32,5 +32,6 @@
     ]
   }
 ]
+
 
 
