@@ -1,2 +1,2 @@
-# DC-Companion
-A Companion for Data Cloud
+# SF-Companion
+A Companion for Salesforce
