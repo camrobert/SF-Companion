@@ -18,7 +18,7 @@
   {
     "id": "test-SF-item",
     "selector": "article.card.card__1.card__wrapper > div > div > div.card__text__wrapper > div > div > div.card__headline__wrapper > h3",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/info.md",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataStreams.md",
     "allowedUrls": [
       "https://www.salesforce.com/*"
     ]
@@ -32,6 +32,7 @@
     ]
   }
 ]
+
 
 
 
