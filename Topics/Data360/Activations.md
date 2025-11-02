@@ -5,16 +5,16 @@
  Activation Targets, Activation Audiences (Segments), Attribute Sets, Contact Points, Segment Mapping, Activation Schedules, Identity Resolution Profiles (underlying), Consent Management Settings, Suppression Rules, Activation Metrics
 
 ## Documentation 
-- [Activations in Data Cloud](https://help.salesforce.com/s/articleView?id=sf.c360_a_activations.htm&type=5) 
-- [Create an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_create_activation.htm&type=5) 
-- [Create an Activation Target](https://help.salesforce.com/s/articleView?id=sf.c360_a_create_target.htm&type=5) 
-- [Add Contact Points to an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_add_contact_points.htm&type=5) 
-- [Add Attributes to an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_add_attributes.htm&type=5) 
-- [Map Data Cloud Segments to Salesforce Marketing Cloud Data Extensions](https://help.salesforce.com/s/articleView?id=sf.c360_a_activate_mc_data_ext.htm&type=5) 
-- [Activate Segments to Google Ads](https://help.salesforce.com/s/articleView?id=sf.c360_a_activate_google_ads.htm&type=5) 
-- [Manage Activation Frequency](https://help.salesforce.com/s/articleView?id=sf.c360_a_manage_activation_frequency.htm&type=5) 
-- [Monitor an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_monitor_activation.htm&type=5) 
-- [Data Cloud Activation Targets](https://help.salesforce.com/s/articleView?id=sf.c360_a_activation_targets.htm&type=5) 
+- [Activations in Data Cloud](https://help.salesforce.com/s/articleView?id=sf.c360_a_activations.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_activations.htm&type=5") 
+- [Create an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_create_activation.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_create_activation.htm&type=5") 
+- [Create an Activation Target](https://help.salesforce.com/s/articleView?id=sf.c360_a_create_target.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_create_target.htm&type=5") 
+- [Add Contact Points to an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_add_contact_points.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_add_contact_points.htm&type=5") 
+- [Add Attributes to an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_add_attributes.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_add_attributes.htm&type=5") 
+- [Map Data Cloud Segments to Salesforce Marketing Cloud Data Extensions](https://help.salesforce.com/s/articleView?id=sf.c360_a_activate_mc_data_ext.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_activate_mc_data_ext.htm&type=5") 
+- [Activate Segments to Google Ads](https://help.salesforce.com/s/articleView?id=sf.c360_a_activate_google_ads.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_activate_google_ads.htm&type=5") 
+- [Manage Activation Frequency](https://help.salesforce.com/s/articleView?id=sf.c360_a_manage_activation_frequency.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_manage_activation_frequency.htm&type=5") 
+- [Monitor an Activation](https://help.salesforce.com/s/articleView?id=sf.c360_a_monitor_activation.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_monitor_activation.htm&type=5") 
+- [Data Cloud Activation Targets](https://help.salesforce.com/s/articleView?id=sf.c360_a_activation_targets.htm&type=5 "https://help.salesforce.com/s/articleView?id=sf.c360_a_activation_targets.htm&type=5") 
 
 ## References 
 - [Salesforce Data Cloud](https://www.salesforce.com/products/data-cloud/overview/) 
