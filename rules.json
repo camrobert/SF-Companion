@@ -155,10 +155,11 @@
   },
   {
     "id": "test-SF-item",
-    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataLakeObjects.md",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/Activations.md",
     "allowedUrls": [
       "https://www.salesforce.com/*"
     ]
   }
 ]
+
 
