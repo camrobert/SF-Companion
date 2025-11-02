@@ -1,40 +1,163 @@
 [
   {
-    "id": "d360-datastream-title",
-    "selector": "div.slds-grid.resize-reflow_flex-wrap > div.slds-col.slds-has-flexi-truncate.firstHeaderRow > div > records-highlights-icon",
-    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataStreams.md",
+    "id": "d360-DataStream",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataStream.md",
     "allowedUrls": [
-      "*lightning/o/DataStream/list*"
+      "*/lightning/o/DataStream/list*"
     ]
   },
   {
-    "id": "github-pr-title",
-    "selector": ".gh-header-title .js-issue-title",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/pull-request-title.md",
+    "id": "d360-DataLakeObjects",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataLakeObjects.md",
     "allowedUrls": [
-      "https://github.com/*/*/pull/*"
+      "*/lightning/o/DataLakeObjectInstance/list*"
+    ]
+  },
+  {
+    "id": "d360-DataModelObjects",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataModelObjects.md",
+    "allowedUrls": [
+      "*/lightning/n/standard-DataModel*"
+    ]
+  },
+  {
+    "id": "d360-DataExplorer",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataExplorer.md",
+    "allowedUrls": [
+      "*/one/one.app#eyJjb21wb25lbnREZWYiOiJydW50aW1lX2NkcDpkYXRhVmlld1RhYiIsImF0dHJpYnV0ZXMiOnt9LCJzdGF0ZSI6e319*"
+    ]
+  },
+  {
+    "id": "d360-IdentityResolution",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/IdentityResolution.md",
+    "allowedUrls": [
+      "*/lightning/o/IdentityResolution/home*"
+    ]
+  },
+  {
+    "id": "d360-ProfileExplorer",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/ProfileExplorer.md",
+    "allowedUrls": [
+      "*/lightning/n/standard-ProfileExplorer*"
+    ]
+  },
+  {
+    "id": "d360-CalculatedInsights",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/CalculatedInsights.md",
+    "allowedUrls": [
+      "*/lightning/o/MktCalculatedInsight/home*"
+    ]
+  },
+  {
+    "id": "d360-DataActionTargets",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataActionTargets.md",
+    "allowedUrls": [
+      "*/lightning/o/DataActionTarget/list*"
+    ]
+  },
+  {
+    "id": "d360-DataActions",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataActions.md",
+    "allowedUrls": [
+      "*/lightning/o/DataAction/home*"
+    ]
+  },
+  {
+    "id": "d360-Segments",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/Segments.md",
+    "allowedUrls": [
+      "*/lightning/o/MarketSegment/list*"
+    ]
+  },
+  {
+    "id": "d360-Activations",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/Activations.md",
+    "allowedUrls": [
+      "*/lightning/o/MarketSegmentActivation/list*"
+    ]
+  },
+  {
+    "id": "d360-ActivationTargets",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/ActivationTargets.md",
+    "allowedUrls": [
+      "*/lightning/o/ActivationTarget/list*"
+    ]
+  },
+  {
+    "id": "d360-DataSpaces",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataSpaces.md",
+    "allowedUrls": [
+      "*/lightning/o/DataSpace/list*"
+    ]
+  },
+  {
+    "id": "d360-DataTransforms",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataTransforms.md",
+    "allowedUrls": [
+      "*/lightning/o/MktDataTransform/list*"
+    ]
+  },
+  {
+    "id": "d360-Reports",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/Reports.md",
+    "allowedUrls": [
+      "*/lightning/o/Report/home*"
+    ]
+  },
+  {
+    "id": "d360-Dashboards",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/Dashboards.md",
+    "allowedUrls": [
+      "*/lightning/o/Dashboard/home?queryScope=mru*"
+    ]
+  },
+  {
+    "id": "d360-DataGraphs",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataGraphs.md",
+    "allowedUrls": [
+      "*/lightning/o/DataGraph/list*"
+    ]
+  },
+  {
+    "id": "d360-DataShares",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataShares.md",
+    "allowedUrls": [
+      "*/lightning/o/ExtDataShare/home*"
+    ]
+  },
+  {
+    "id": "d360-DataShareTargets",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataShareTargets.md",
+    "allowedUrls": [
+      "*/lightning/o/ExtDataShareTarget/list*"
+    ]
+  },
+  {
+    "id": "d360-QueryEditor",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/QueryEditor.md",
+    "allowedUrls": [
+      "*/lightning/o/DataQueryWorkspace/home*"
+    ]
+  },
+  {
+    "id": "d360-SecondaryIndexes",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/SecondaryIndexes.md",
+    "allowedUrls": [
+      "*/lightning/o/DataObjSecondaryIndex/list*"
+    ]
+  },
+  {
+    "id": "d360-CommunicationCapping",
+    "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/CommunicationCapping.md",
+    "allowedUrls": [
+      "*/lightning/o/DataCommunicationCap/list*"
     ]
   },
   {
     "id": "test-SF-item",
-    "selector": "article.card.card__1.card__wrapper > div > div > div.card__text__wrapper > div > div > div.card__headline__wrapper > h3",
     "infoUrl": "https://raw.githubusercontent.com/camrobert/SF-Companion/refs/heads/main/Topics/Data360/DataStreams.md",
     "allowedUrls": [
       "https://www.salesforce.com/*"
     ]
-  },
-  {
-    "id": "global-help-buttons",
-    "selector": ".show-global-help",
-    "infoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/info/global-help.md",
-    "allowedUrls": [
-      "*"
-    ]
   }
 ]
-
-
-
-
-
-
